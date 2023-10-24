@@ -1,0 +1,7 @@
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\bin\Debug\Arranjo.exe.config
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\bin\Debug\Arranjo.exe
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\bin\Debug\Arranjo.pdb
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\obj\Debug\Arranjo.csprojAssemblyReference.cache
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\obj\Debug\Arranjo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\obj\Debug\Arranjo.exe
+C:\Users\lucas.balbino\Documents\Arranjo\Arranjo\obj\Debug\Arranjo.pdb
